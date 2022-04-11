@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dynamichealth",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

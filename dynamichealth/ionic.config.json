@@ -1,0 +1,7 @@
+{
+  "name": "dynamichealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
